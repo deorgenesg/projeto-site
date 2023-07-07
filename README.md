@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Site </h1>
 
 <p align="center">
-Criação de site pessoal com redirecionamento com links para minhas redes sociais.
+Desenvolvimento de site pessoal com redirecionamento para minhas redes sociais através de links diretos.
 </a>
 </p>
 <br>
