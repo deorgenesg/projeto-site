@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 1 </h1>
+<h1 align="center"> Projeto Site </h1>
 
 <p align="center">
 Criação de site pessoal com redirecionamento com links para minhas redes sociais.
